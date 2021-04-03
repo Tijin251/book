@@ -1,0 +1,18 @@
+C:\Users\Porter\Documents\SharpDevelop Projects\hz\hz\bin\Debug\hz.exe.config
+C:\Users\Porter\Documents\SharpDevelop Projects\hz\hz\bin\Debug\hz.exe
+C:\Users\Porter\Documents\SharpDevelop Projects\hz\hz\bin\Debug\hz.pdb
+C:\Users\Porter\Documents\SharpDevelop Projects\hz\hz\obj\Debug\hz.csprojResolveAssemblyReference.cache
+C:\Users\Porter\Documents\SharpDevelop Projects\hz\hz\obj\Debug\hz.MainForm.resources
+C:\Users\Porter\Documents\SharpDevelop Projects\hz\hz\obj\Debug\hz.csproj.GenerateResource.Cache
+C:\Users\Porter\Documents\SharpDevelop Projects\hz\hz\obj\Debug\hz.exe
+C:\Users\Porter\Documents\SharpDevelop Projects\hz\hz\obj\Debug\hz.pdb
+C:\Users\User\Desktop\hz\hz\obj\Debug\hz.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\hz\hz\obj\Debug\hz.MainForm.resources
+C:\Users\User\Desktop\hz\hz\obj\Debug\hz.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\hz\hz\obj\Debug\hz.exe
+C:\Users\User\Desktop\hz\hz\obj\Debug\hz.Form1.resources
+C:\Users\User\Desktop\hz\hz\bin\Debug\hz.exe.config
+C:\Users\User\Desktop\hz\hz\bin\Debug\hz.exe
+C:\Users\User\Desktop\hz\hz\bin\Debug\hz.pdb
+C:\Users\User\Desktop\hz\hz\obj\Debug\hz.pdb
+C:\Users\User\Desktop\hz\hz\obj\Debug\hz.Form2.resources
